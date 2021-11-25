@@ -18,8 +18,8 @@ go run main.go
 ### Add Location History [POST]
 
 > http://localhost:8080/location/def457/now
-Sample request body
 
+Sample request body
 ```bash
 {
 	"lat": 19.34,
